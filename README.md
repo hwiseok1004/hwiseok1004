@@ -6,7 +6,7 @@
   
   <br>
   
-  <p>mbti : infj <br> 한번뿐인 인생 후회없이 살아가자</p>
+  <p>mbti : infj <br> 신은 용기있는자를 결코 버리지 않는다</p>
   
   <br>
   

@@ -20,7 +20,7 @@
 <div align="center" style="margin: 0 auto; display: flex; justify-content: center; gap:10px;">
   <!-- 사용하시는 기술 스택의 아이콘을 추가하세요. 예: https://simpleicons.org/ -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
 <br>
 

@@ -57,10 +57,8 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hwiseok1004/hwiseok1004/output/snake-dark.svg?u=2">
     <img alt="snake" src="https://raw.githubusercontent.com/hwiseok1004/hwiseok1004/output/snake.svg?u=2">
   </picture>
-
-  <!-- GIF도 추가하고 싶으면 ↓ 한 줄 추가 -->
-  <img src="https://raw.githubusercontent.com/hwiseok1004/hwiseok1004/output/snake.gif?u=2" width="100%">
 </p>
+
 
 
 </div>

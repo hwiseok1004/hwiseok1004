@@ -51,12 +51,16 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
-
 ## 🐍 Contribution Snake
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hwiseok1004/hwiseok1004/output/snake-dark.svg?u=2">
+    <img alt="snake" src="https://raw.githubusercontent.com/hwiseok1004/hwiseok1004/output/snake.svg?u=2">
+  </picture>
 
-![snake light](https://raw.githubusercontent.com/hwiseok1004/hwiseok1004/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![snake dark](https://raw.githubusercontent.com/hwiseok1004/hwiseok1004/output/github-contribution-grid-snake-darksvg#gh-dark-mode-only)
+  <!-- GIF도 추가하고 싶으면 ↓ 한 줄 추가 -->
+  <img src="https://raw.githubusercontent.com/hwiseok1004/hwiseok1004/output/snake.gif?u=2" width="100%">
+</p>
+
 
 </div>

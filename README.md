@@ -23,10 +23,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 <br>
-*   **언어:** 파이썬, c언어
-*   **프레임워크 & 라이브러리:** 여기에 사용 가능한 프레임워크 및 라이브러리를 작성하세요.
-*   **데이터베이스:** 여기에 사용 가능한 데이터베이스를 작성하세요.
-*   **기타:** 그 외 도구 및 기술을 작성하세요.
+
 
 <br>
 

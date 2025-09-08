@@ -10,16 +10,6 @@
   
   <br>
   
-  <div style="display: flex; justify-content: center; gap: 15px;">
-    <a href="[여기에 깃허브 프로필 링크]">
-      <img src="https://github.com/hwiseok1004">
-    </a>
-    <a href="mailto:[여기에 이메일 주소]">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="[여기에 블로그 링크]">
-      <img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=blogger&logoColor=white">
-    </a>
   </div>
 </div>
 

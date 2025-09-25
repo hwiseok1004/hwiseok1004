@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=header&text=Hwiseok&fontSize=90" width="100%"/>
   
   <h1>엄휘석</h1>
-  <p><b>한신대학교 AI.SW계열</b></p>
+  <p><b>한신대학교 AI.SW계열.</b></p>
   
   <br>
   

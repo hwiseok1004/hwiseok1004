@@ -27,9 +27,6 @@
   <a href="https://solved.ac/mail1004">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mail1004" alt="Solved.ac Profile for mail1004" />
   </a>
-  <a href="https://solved.ac/mail1004">
-    <img src="http://mazassumnida.wtf/api/v2/generate_streak?boj=mail1004" alt="Solved.ac Streak for mail1004" />
-  </a>
 </div>
 
 <br>

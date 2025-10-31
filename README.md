@@ -10,7 +10,26 @@
   
   <br>
   
-  </div>
+</div>
+
+<br>
+
+## 📊 GitHub 및 Solved.ac 통계
+---
+<div align="center">
+  <a href="https://github.com/hwiseok1004">
+    <img src="https://github-readme-stats.vercel.app/api?username=hwiseok1004&show_icons=true&theme=radical" alt="hwiseok1004's GitHub stats" />
+  </a>
+  <a href="https://github.com/hwiseok1004">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwiseok1004&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+  <br/>
+  <a href="https://solved.ac/mail1004">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mail1004" alt="Solved.ac Profile for mail1004" />
+  </a>
+  <a href="https://solved.ac/mail1004">
+    <img src="http://mazassumnida.wtf/api/v2/generate_streak?boj=mail1004" alt="Solved.ac Streak for mail1004" />
+  </a>
 </div>
 
 <br>
@@ -18,7 +37,6 @@
 ## 🛠️ 기술 스택 (Skills)
 ---
 <div align="center" style="margin: 0 auto; display: flex; justify-content: center; gap:10px;">
-  <!-- 사용하시는 기술 스택의 아이콘을 추가하세요. 예: https://simpleicons.org/ -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
@@ -30,29 +48,29 @@
 ## 📂 주요 프로젝트 (Projects)
 ---
 ###  프로젝트 1: 게임 출시하기 (완)
-*   **설명:** 내가 만든게임을 구글 플레이스토어에 출시한다.
-*   **역할:** 바이브 코딩 개발자
-*   **기술 스택:** C#
-*   **링크:** [구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.halfmoon.honeycomb&hl=ko)
+* **설명:** 내가 만든게임을 구글 플레이스토어에 출시한다.
+* **역할:** 바이브 코딩 개발자
+* **기술 스택:** C#
+* **링크:** [구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.halfmoon.honeycomb&hl=ko)
 
 ### 프로젝트 2: 4.5 받기(못받을 듯, 영어 너무 싫어)
-*   **설명:** 학점을 잘 받아 놓자
-*   **역할:** 학생
-*   **기술 스택:** 파이썬, C언어
+* **설명:** 학점을 잘 받아 놓자
+* **역할:** 학생
+* **기술 스택:** 파이썬, C언어
 
 ### 프로젝트 3: 백준 많이 풀기
-*   **설명:** 학교 랭킹을 올리기 위해 백준을 많이 풀어보자
-*   **역할:** 학생
-*   **기술 스택:** 파이썬, C언어
-*   **링크:** [백준 프로필](https://www.acmicpc.net/user/mail1004)
+* **설명:** 학교 랭킹을 올리기 위해 백준을 많이 풀어보자
+* **역할:** 학생
+* **기술 스택:** 파이썬, C언어
+* **링크:** [백준 프로필](https://www.acmicpc.net/user/mail1004)
 
 <br>
 
 ## ✨ 추가 정보 (More Info)
 ---
-*   **MBTI:** infj
-*   **관심 분야:** 정보 보안
-*   **목표:** 월 4000만원
+* **MBTI:** infj
+* **관심 분야:** 정보 보안
+* **목표:** 월 4000만원
 
 <br>
 
@@ -63,7 +81,3 @@
     <img alt="snake" src="https://raw.githubusercontent.com/hwiseok1004/hwiseok1004/output/snake.svg?u=2">
   </picture>
 </p>
-
-
-
-</div>

@@ -34,7 +34,7 @@
 ## 🛠️ 기술 스택 (Skills)
 ---
 <div align="center" style="margin: 0 auto; display: flex; justify-content: center; gap:10px;">
-  <img src="https://skillicons.dev/icons?i=py,c,cs" />
+  <img src="https://skillicons.dev/icons?i=py,c,cs,js,html" />
 </div>
 <br>
 
